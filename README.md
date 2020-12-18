@@ -54,3 +54,4 @@ mount -o loop /home/file /usr/files
 ```
 
 ![Скриншот HTTP-клиента](https://ibb.co/GRg0gmd "Скриншот HTTP-клиента")
+https://ibb.co/GRg0gmd
