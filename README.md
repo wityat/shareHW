@@ -53,5 +53,5 @@ mount -o loop /home/file /usr/files
 0 0 1 1 * sh /usr/scripts/backup.sh
 ```
 
-![Скриншот HTTP-клиента](https://ibb.co/GRg0gmd "Скриншот HTTP-клиента")
-https://ibb.co/GRg0gmd
+![Скриншот HTTP-клиента](https://i.ibb.co/GRg0gmd/2020-12-18-23-01-24.png "Скриншот HTTP-клиента")
+
